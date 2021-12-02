@@ -1,9 +1,3 @@
-int a, b, c, d;
-
 read  a, b;
 c = a + b;
 print c;
-
-read  a, b;
-d = a * b;
-print d;
