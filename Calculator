@@ -2,3 +2,8 @@ int a, b, c;
 read  a, b;
 c = a + b;
 print c;
+//ali code
+int a, b, c;
+read  a, b;
+c = a - b;
+print f;
